@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Jadwal Cek Ayam</title>
+</head>
+<body>
+  <h1>🐔 Jadwal Cek Ayam</h1>
+  <p>Cek rutin setiap <b>tanggal 17</b> setiap bulan.</p>
+
+  <h3>Checklist</h3>
+  <ul>
+    <li>Nafsu makan</li>
+    <li>Napas (ngorok/snot)</li>
+    <li>Kotoran</li>
+    <li>Berat badan</li>
+    <li>Kondisi bulu</li>
+  </ul>
+
+  <p><i>Catatan: Baba & Ciki</i></p>
+</body>
+</html>
